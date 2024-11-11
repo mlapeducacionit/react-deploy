@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "Microondas",
+      "categoria": "Electro",
+      "precio": "543.3"
+    },
+    {
+      "id": "3",
+      "nombre": "Televisor",
+      "categoria": "Electro",
+      "precio": "111"
+    },
+    {
+      "id": "6",
+      "nombre": "Mouse",
+      "categoria": "Informatica",
+      "precio": 33.3
+    },
+    {
+      "id": "a48c",
+      "nombre": "Maximiliano",
+      "categoria": "Electro",
+      "precio": "456"
+    },
+    {
+      "id": "8b16",
+      "nombre": "Luis",
+      "categoria": "Electro",
+      "precio": "456"
+    },
+    {
+      "id": "b2f9",
+      "nombre": "Heladera no frost",
+      "categoria": "Electro",
+      "precio": "342"
+    }
+  ]
+}
